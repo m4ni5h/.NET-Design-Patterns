@@ -1,0 +1,6 @@
+D:\Learnings\PRO.NET\Gang Of Four\NET-Design-Pattern\Adapter\GOF.Adapter.Basic\bin\Debug\GOF.Adapter.Basic.exe.config
+D:\Learnings\PRO.NET\Gang Of Four\NET-Design-Pattern\Adapter\GOF.Adapter.Basic\bin\Debug\GOF.Adapter.Basic.exe
+D:\Learnings\PRO.NET\Gang Of Four\NET-Design-Pattern\Adapter\GOF.Adapter.Basic\bin\Debug\GOF.Adapter.Basic.pdb
+D:\Learnings\PRO.NET\Gang Of Four\NET-Design-Pattern\Adapter\GOF.Adapter.Basic\obj\Debug\GOF.Adapter.Basic.csprojResolveAssemblyReference.cache
+D:\Learnings\PRO.NET\Gang Of Four\NET-Design-Pattern\Adapter\GOF.Adapter.Basic\obj\Debug\GOF.Adapter.Basic.exe
+D:\Learnings\PRO.NET\Gang Of Four\NET-Design-Pattern\Adapter\GOF.Adapter.Basic\obj\Debug\GOF.Adapter.Basic.pdb
