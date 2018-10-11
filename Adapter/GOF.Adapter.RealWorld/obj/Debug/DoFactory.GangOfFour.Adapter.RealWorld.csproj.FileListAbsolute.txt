@@ -1,0 +1,1 @@
+D:\Learnings\PRO.NET\Gang Of Four\NET-Design-Pattern\Adapter\GOF.Adapter.RealWorld\bin\Debug\DoFactory.GangOfFour.Adapter.RealWorld.exe.config

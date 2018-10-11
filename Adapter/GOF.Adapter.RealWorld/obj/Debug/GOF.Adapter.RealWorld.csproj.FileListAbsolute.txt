@@ -1,0 +1,6 @@
+D:\Learnings\PRO.NET\Gang Of Four\NET-Design-Pattern\Adapter\GOF.Adapter.RealWorld\bin\Debug\GOF.Adapter.RealWorld.exe.config
+D:\Learnings\PRO.NET\Gang Of Four\NET-Design-Pattern\Adapter\GOF.Adapter.RealWorld\bin\Debug\GOF.Adapter.RealWorld.exe
+D:\Learnings\PRO.NET\Gang Of Four\NET-Design-Pattern\Adapter\GOF.Adapter.RealWorld\bin\Debug\GOF.Adapter.RealWorld.pdb
+D:\Learnings\PRO.NET\Gang Of Four\NET-Design-Pattern\Adapter\GOF.Adapter.RealWorld\obj\Debug\GOF.Adapter.RealWorld.csprojResolveAssemblyReference.cache
+D:\Learnings\PRO.NET\Gang Of Four\NET-Design-Pattern\Adapter\GOF.Adapter.RealWorld\obj\Debug\GOF.Adapter.RealWorld.exe
+D:\Learnings\PRO.NET\Gang Of Four\NET-Design-Pattern\Adapter\GOF.Adapter.RealWorld\obj\Debug\GOF.Adapter.RealWorld.pdb
