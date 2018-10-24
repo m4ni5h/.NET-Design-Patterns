@@ -1,0 +1,1 @@
+D:\Learnings\PRO.NET\Gang Of Four\NET-Design-Pattern\Visitor\GOF.Visitor.Basic\bin\Debug\DoFactory.GangOfFour.Visitor.Structural.exe.config
