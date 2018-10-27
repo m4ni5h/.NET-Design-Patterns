@@ -1,0 +1,6 @@
+D:\Learnings\PRO.NET\Gang Of Four\NET-Design-Pattern\Visitor\GOF.Visitor.RealWorld\bin\Debug\GOF.Visitor.RealWorld.exe.config
+D:\Learnings\PRO.NET\Gang Of Four\NET-Design-Pattern\Visitor\GOF.Visitor.RealWorld\bin\Debug\GOF.Visitor.RealWorld.exe
+D:\Learnings\PRO.NET\Gang Of Four\NET-Design-Pattern\Visitor\GOF.Visitor.RealWorld\bin\Debug\GOF.Visitor.RealWorld.pdb
+D:\Learnings\PRO.NET\Gang Of Four\NET-Design-Pattern\Visitor\GOF.Visitor.RealWorld\obj\Debug\GOF.Visitor.RealWorld.csprojResolveAssemblyReference.cache
+D:\Learnings\PRO.NET\Gang Of Four\NET-Design-Pattern\Visitor\GOF.Visitor.RealWorld\obj\Debug\GOF.Visitor.RealWorld.exe
+D:\Learnings\PRO.NET\Gang Of Four\NET-Design-Pattern\Visitor\GOF.Visitor.RealWorld\obj\Debug\GOF.Visitor.RealWorld.pdb
