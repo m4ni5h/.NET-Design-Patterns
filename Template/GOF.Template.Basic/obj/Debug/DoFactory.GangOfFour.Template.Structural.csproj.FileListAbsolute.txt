@@ -1,0 +1,1 @@
+D:\Learnings\PRO.NET\Gang Of Four\NET-Design-Pattern\Template\GOF.Template.Basic\bin\Debug\DoFactory.GangOfFour.Template.Structural.exe.config

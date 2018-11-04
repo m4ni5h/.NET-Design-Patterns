@@ -1,0 +1,5 @@
+D:\Learnings\PRO.NET\Gang Of Four\NET-Design-Pattern\Template\GOF.Template.RealWorld\bin\Debug\GOF.Template.RealWorld.exe.config
+D:\Learnings\PRO.NET\Gang Of Four\NET-Design-Pattern\Template\GOF.Template.RealWorld\bin\Debug\GOF.Template.RealWorld.exe
+D:\Learnings\PRO.NET\Gang Of Four\NET-Design-Pattern\Template\GOF.Template.RealWorld\bin\Debug\GOF.Template.RealWorld.pdb
+D:\Learnings\PRO.NET\Gang Of Four\NET-Design-Pattern\Template\GOF.Template.RealWorld\obj\Debug\GOF.Template.RealWorld.exe
+D:\Learnings\PRO.NET\Gang Of Four\NET-Design-Pattern\Template\GOF.Template.RealWorld\obj\Debug\GOF.Template.RealWorld.pdb

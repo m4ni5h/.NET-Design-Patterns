@@ -1,0 +1,6 @@
+D:\Learnings\PRO.NET\Gang Of Four\NET-Design-Pattern\Template\GOF.Template.Basic\bin\Debug\GOF.Template.Basic.exe.config
+D:\Learnings\PRO.NET\Gang Of Four\NET-Design-Pattern\Template\GOF.Template.Basic\bin\Debug\GOF.Template.Basic.exe
+D:\Learnings\PRO.NET\Gang Of Four\NET-Design-Pattern\Template\GOF.Template.Basic\bin\Debug\GOF.Template.Basic.pdb
+D:\Learnings\PRO.NET\Gang Of Four\NET-Design-Pattern\Template\GOF.Template.Basic\obj\Debug\GOF.Template.Basic.csprojResolveAssemblyReference.cache
+D:\Learnings\PRO.NET\Gang Of Four\NET-Design-Pattern\Template\GOF.Template.Basic\obj\Debug\GOF.Template.Basic.exe
+D:\Learnings\PRO.NET\Gang Of Four\NET-Design-Pattern\Template\GOF.Template.Basic\obj\Debug\GOF.Template.Basic.pdb

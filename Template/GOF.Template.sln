@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GOF.Template.Basic", "GOF.Template.Basic\GOF.Template.Basic.csproj", "{A23D3E84-1204-4BB9-B6D7-5C65A87B5490}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GOF.Template.RealWorld", "GOF.Template.RealWorld\GOF.Template.RealWorld.csproj", "{4D461028-CDAD-4B46-94A0-47E09004FDED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A23D3E84-1204-4BB9-B6D7-5C65A87B5490}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A23D3E84-1204-4BB9-B6D7-5C65A87B5490}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A23D3E84-1204-4BB9-B6D7-5C65A87B5490}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A23D3E84-1204-4BB9-B6D7-5C65A87B5490}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D461028-CDAD-4B46-94A0-47E09004FDED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D461028-CDAD-4B46-94A0-47E09004FDED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D461028-CDAD-4B46-94A0-47E09004FDED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D461028-CDAD-4B46-94A0-47E09004FDED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
