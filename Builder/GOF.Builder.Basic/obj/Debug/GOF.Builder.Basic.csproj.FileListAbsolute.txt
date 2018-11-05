@@ -1,0 +1,5 @@
+D:\Learnings\PRO.NET\Gang Of Four\NET-Design-Pattern\Builder\GOF.Builder.Basic\bin\Debug\GOF.Builder.Basic.exe.config
+D:\Learnings\PRO.NET\Gang Of Four\NET-Design-Pattern\Builder\GOF.Builder.Basic\bin\Debug\GOF.Builder.Basic.exe
+D:\Learnings\PRO.NET\Gang Of Four\NET-Design-Pattern\Builder\GOF.Builder.Basic\bin\Debug\GOF.Builder.Basic.pdb
+D:\Learnings\PRO.NET\Gang Of Four\NET-Design-Pattern\Builder\GOF.Builder.Basic\obj\Debug\GOF.Builder.Basic.exe
+D:\Learnings\PRO.NET\Gang Of Four\NET-Design-Pattern\Builder\GOF.Builder.Basic\obj\Debug\GOF.Builder.Basic.pdb
